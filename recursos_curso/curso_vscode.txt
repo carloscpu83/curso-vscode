@@ -1,0 +1,92 @@
+'''''''''''''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''Bloque 2'''''''''''''''''''''
+'''''''''''''''''''''''''''''''''''''''''''''''''
+
+#Tema3 -> Intalaciones
+Intalar plugins (Bookmarks,Bracket Pair Colorizer 2,Color Highlight,Liveserver,Material Icon Theme,Material Theme,Paste JSON as Code,TODO Highlight,TODO Tree)
+
+#Tema 8 -> Movimiento lineas (1)
+alt + up/down arrow
+
+#Tema 10 -> Comentar codigo
+Comentario con // -> ctrl + mayus + /
+Comantario con /**/ -> ctrl + mayus + a
+
+#Tema 12 -> Creacion de archivos y carpetas
+ctrl + click izq
+
+#Tema 13 -> Ir a definicion
+Saltar a la definicien -> ctrl + click izq = F12
+Ver la definicion sin cambiar de documento -> F12
+
+#Tema 14 -> Borrar lineas
+Una o varias lineas seleccionadas -> ctrl + mayus + k
+Seleccionar todas las lineas que tengan una ocurrencia y posteriormente borrarlas -> ctrl + mayus + l + k
+
+#Tema 15 -> Deshacer y rehacer
+Deshacer -> ctrl + z
+Rehacer -> ctrl + mayus + z || ctrl + y
+
+#Tema 16 -> Zen mode
+Ocultar barra lateral -> ctrl + b
+Zen mode -> (ctrl + k) + z
+
+#Tema 17 -> Terminal
+Mostrar y ocultar terminal -> ctrl + `
+
+#Tema 18 -> Emmet wrap + atajos personalizados
+Emmet wrap (encapsula code entre etiquetas) -> (ctrl + mayus + p) + escribir wrap + agregar el anidamiento de etiquetas (ejemplo: div>xx>zzz)
+
+#Tema 19 -> Tabs
+Cerrar actual -> ctrl + w
+Cerrar todos -> ctrl + k + w
+Ver todos los abiertos -> ctrl + tab
+Reabrir -> ctrl + mayus + t
+
+
+'''''''''''''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''Bloque 3'''''''''''''''''''''
+'''''''''''''''''''''''''''''''''''''''''''''''''
+#Tema 21 -> clonar lineas
+Clonado arriba -> ctrl + mayus + alt + 2
+Clonado abajo -> ctrl + mayus + alt + 8
+
+#Tema 22 -> Multicursor arriba y abajo
+ctrl + mayus + uparrow/downarrow
+
+#Tema 25 -> Upper + Lower
+Uppercase -> Agregar ctrl + super + u
+Lowercase -> Agregar ctrl + super + l
+
+#Tema 26 -> Multicursores en diferentes posiciones
+alt + doble click 
+
+#Tema 27 Multicursor siguiente ocurrencia
+ctrl + d
+(ctrl + d N veces = ctrl + alt + l)
+
+'''''''''''''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''Bloque 4'''''''''''''''''''''
+'''''''''''''''''''''''''''''''''''''''''''''''''
+#Tema 30 -> Definiciones
+(ctrl + p) + @:
+
+#Tema 31 -> Ir a una linea
+ctrl + g
+
+#Tema 33 -> Reemplazo de simbolo
+f2 + cambiar nombre + enter
+
+
+
+'''''''''''''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''Bloque 5'''''''''''''''''''''
+'''''''''''''''''''''''''''''''''''''''''''''''''
+#Tema 37 -> JSON as code
+Copiar cualquier JSON en el portapapeles + (ctrl +p) + Paste JSON as code
+
+#Tema 38 -> TODO
+Mediante // TODO y // FIXME en ciertas partes del codigo permite ser visualizado gracias al botón que se agrega en la barra lateral
+
+#Tema 39 -> Bookmarks
+ctrl + alt + k
